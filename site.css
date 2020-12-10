@@ -4,6 +4,7 @@ body {
     background-color:#e0fbfff ;
     color: #c76161;
     padding: 3px;
+    text-align: center;
 }
 
 #main {
@@ -12,6 +13,7 @@ body {
     padding-right: 15px;
     background-color: #fffed9;
     border-radius: 0 0 5px 5px;
+    text-align: center;
 }
 
 h1 {
@@ -19,6 +21,7 @@ h1 {
     border-bottom: 3px solid #95dafc;
     color: #5bb3de;
     font-size: 30px;
+    text-align: center; 
 }
 ul#menu {
     padding: 0;
