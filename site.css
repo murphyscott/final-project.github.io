@@ -31,14 +31,14 @@ ul#menu li {
 }
 
 ul#menu li a {
-    background-color: #ffffff;
+    background-color: #fca4a4;
     padding: 10px 20px;
     text-decoration: none;
-    color: #696969;
+    color: #c76161;
     border-radius: 4px 4px 0 0;
 }
 
 ul#menu li a:hover {
-    color: white;
-    background-color: black;
+    color: #fca4a4;
+    background-color: #c76161;
 }
