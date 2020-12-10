@@ -1,5 +1,5 @@
 body {
-    font-family: "Trebuchet MS", Verdana, sans-serif;
+    font-family: Georgia;
     font-size: 16px;
     background-color:#e0fbfff ;
     color: #fca4a4;
@@ -15,9 +15,9 @@ body {
 }
 
 h1 {
-    font-family: Georgia, serif;
-    border-bottom: 3px solid #cc9900;
-    color: #996600;
+    font-family: Georgia, Georgia;
+    border-bottom: 3px solid #95dafc;
+    color: #5bb3de;
     font-size: 30px;
 }
 ul#menu {
